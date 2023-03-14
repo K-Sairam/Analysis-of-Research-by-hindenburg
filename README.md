@@ -1,2 +1,2 @@
-# Analysis-of-Research-by-hindenburg
+# Analysis-of-Hindenburg-Research
 course project
